@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARISE</string>
+    <string name="accessibility_description">Lets ARISE tap buttons, scroll and type inside the Play Store, Chrome, Gmail, BookMyShow, WhatsApp and YouTube when you tell it to by voice. It never taps payment buttons and never types into password, PIN or OTP fields.</string>
+</resources>
